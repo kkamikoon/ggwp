@@ -28,21 +28,21 @@ Each item in GGWP is as follows:
 ### Goals
 * Goals of project.
 * The purpose of setting the goals.
-* 'Goods', 'Weaknesses', 'Progresses' are based on these goals.
+* 'Goods', 'Weaknesses', 'Progresses' will be based on these goals.
 
 ### Goods
-* What were the goods to achieve the goal(your goal)?
+* What were the good things to achieve the goal(your goal)?
 * What you did well throughout the project?
 * What you liked about the project?
 
 ### Weaknesses
-* What were the weaknesses to achieve the goal(your goal)?
+* What were the weak points to achieve the goal(your goal)?
 * What were hard things about the project?
 * What were bad things about the project?
 
 ### Progresses
-* Goods에서 계속 유지하면 좋을 내용을 작성합니다.
-* Weaknesses를 해결하기 위해 시도할 방법을 작성합니다.
+* What will you keep in 'Goods'?
+* What will you try to solve the 'Weaknesses'?
 
 ---
 # References
